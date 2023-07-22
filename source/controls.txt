@@ -1,0 +1,13 @@
+Control:
+BACKSPACE - Restart
+SPACE - Pause
+ESC - Exit to the menu
+UP - Rotate figure
+LEFT / RIGHT - Movement of the figure
+DOWN - Boost figure
+
+Calculating points:
+1 line    - 100  points
+2 lines - 300  points
+3 lines - 700  points
+4 lines - 1500 points
